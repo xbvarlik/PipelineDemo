@@ -3,7 +3,7 @@ name: Deploy to Staging in Infrastructure Repo
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
