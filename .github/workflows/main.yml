@@ -25,4 +25,4 @@ jobs:
           git add .
           git commit -m "Fetch Docker image and push to Staging in Infrastructure Repo"
           git push origin staging
-        working-directory: ./demo-infrastructure
+        working-directory: ../demo-infrastructure
