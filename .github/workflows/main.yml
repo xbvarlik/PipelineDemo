@@ -20,7 +20,7 @@ jobs:
 
       - name: Fetch Docker image and push to Staging in Infrastructure Repo
         run: |
-          cp -r ./Calculations/*.Dockerfile ../demo-infrastructure/images/
+          cp -r ./PipelineDemo.Calculations/*.Dockerfile ../demo-infrastructure/images/
         working-directory: .
 
       - name: Commit and Push Changes to Infra Repo
