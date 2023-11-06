@@ -29,5 +29,5 @@ jobs:
           git config user.email "barisvarlik19@gmail.com"
           git add .
           git commit -m "Fetch Docker image and push to Staging in Infrastructure Repo"
-          git push origin staging
-        working-directory: ../demo-infrastructure
+          git push https://${{ secrets.THE_ONE_TOKEN }}@github.com/xbvarlik/demo-infrastructure.git HEAD:staging
+        working-directory: ./demo-infrastructure
