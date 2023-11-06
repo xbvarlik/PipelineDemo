@@ -13,6 +13,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: List Files in Current Directory
+        run: |
+            ls -la
+        working-directory: .
+
       - name: Fetch Docker image and push to Staging in Infrastructure Repo
         run: |
           cp -r ./Calculations/*.Dockerfile ../demo-infrastructure/images/
