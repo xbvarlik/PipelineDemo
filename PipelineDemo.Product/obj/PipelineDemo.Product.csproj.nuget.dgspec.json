@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj": {}
+    "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj": {
+    "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj",
+        "projectUniqueName": "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj",
         "projectName": "PipelineDemo.Product",
-        "projectPath": "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj",
-        "packagesPath": "C:\\Users\\lanes\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Product\\obj\\",
+        "projectPath": "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Product\\PipelineDemo.Product.csproj",
+        "packagesPath": "C:\\Users\\10131551\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Product\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lanes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\10131551\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

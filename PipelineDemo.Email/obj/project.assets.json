@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lanes\\.nuget\\packages\\": {}
+    "C:\\Users\\10131551\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Email\\PipelineDemo.Email.csproj",
+      "projectUniqueName": "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Email\\PipelineDemo.Email.csproj",
       "projectName": "PipelineDemo.Email",
-      "projectPath": "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Email\\PipelineDemo.Email.csproj",
-      "packagesPath": "C:\\Users\\lanes\\.nuget\\packages\\",
-      "outputPath": "D:\\Codes\\Rider\\PipelineDemo\\PipelineDemo.Email\\obj\\",
+      "projectPath": "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Email\\PipelineDemo.Email.csproj",
+      "packagesPath": "C:\\Users\\10131551\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\10131551\\RiderProjects\\PipelineDemo\\PipelineDemo.Email\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lanes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\10131551\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
