@@ -18,5 +18,5 @@ jobs:
             username: ${{ secrets.REGISTRY_USERNAME }}
             password: ${{ secrets.REGISTRY_PASSWORD }}
         - run: |
-            docker build . -f Project.Api/Dockerfile -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/project-x-api:latest -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/project-x-api:${{ github.sha }}
-            docker push ${{ secrets.REGISTRY_LOGIN_SERVER }}/project-x-api --all-tags
+            docker build . -f PipelineDemo.Calculation/Dockerfile -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/pipeline-demo-calc:latest -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/project-x-api:${{ github.sha }}
+            docker push ${{ secrets.REGISTRY_LOGIN_SERVER }}/pipeline-demo-calc --all-tags
